@@ -1,24 +1,24 @@
-# 👋 Hi, I'm Abolfazl
+# Hi, I'm Abolfazl
 I build **intelligent systems** that combine **data, math, and code**.  
 My focus is on **machine learning, optimization, and automation** — solving real-world problems with elegant solutions.  
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,git,docker,linux,pytorch,tensorflow,sklearn,postgresql" />
 </p>
 
 ---
 
-## 🚀 What I’m Working On  
-- 📊 Forecasting **global material flows** with advanced ML  
-- 🤖 Building **automation & optimization pipelines** for smarter operations  
-- 🧩 Exploring **quantum computing applications** in finance  
+## What I’m Working On  
+- Forecasting **global material flows** with advanced ML  
+- Building **automation & optimization pipelines** for smarter operations  
+- Exploring **quantum computing applications** in finance  
 
 ---
 
-## 📈 GitHub Snapshot  
+## GitHub Snapshot  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MitsuPishi&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>  
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MitsuPishi&theme=tokyonight&hide_border=true" height="160"/>  
@@ -26,7 +26,7 @@ My focus is on **machine learning, optimization, and automation** — solving re
 
 ---
 
-## 🌱 Currently  
+## Currently  
 - Researching **optimization under uncertainty & stochastic methods**  
 - Exploring **quantum computing applications in finance**  
 - Expanding my portfolio of **applied AI & data engineering projects**
