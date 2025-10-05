@@ -6,7 +6,7 @@ My focus is on **machine learning, optimization, and automation** — solving re
 
 ## Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,docker,linux,pytorch,tensorflow,sklearn,postgresql" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,docker,pytorch,tensorflow,sklearn" />
 </p>
 
 ---
